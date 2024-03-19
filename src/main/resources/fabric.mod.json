@@ -10,11 +10,10 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.example.examplemod.ExampleMod"
+      "io.github.emmathemartian.cosmicomputers.CosmicomputersMod"
     ]
   },
   "mixins": [
-    "examplemod.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=${loader_version}",
